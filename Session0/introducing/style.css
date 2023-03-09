@@ -1,0 +1,40 @@
+h2{
+    color: deeppink;
+    border: solid 7px deeppink;
+}
+#a {
+    background-color: rgb(255, 129, 2);
+}
+#b {
+    background-color: rgb(87, 160, 239);
+}
+#c {
+    background-color: rgb(239, 110, 85);
+}
+body {
+    text-align: center;
+}
+#dad{
+    color: cornflowerblue;
+}
+#mom {
+    color: rgb(229, 124, 168);
+}
+#bro{
+    color: rgb(14, 160, 157);
+}
+#me{
+    color: rgb(76, 252, 144);
+}
+h4{
+    border: solid 9px rgb(204, 120, 184);
+}
+.container {
+    width: 88%;
+    color: rgb(139, 71, 71);
+    background-color: rgb(234, 194, 217);
+    margin: 0 auto;
+    border: 3px solid deeppink;
+    padding: 40px;
+    border-radius: 20px;
+    margin: 60px
